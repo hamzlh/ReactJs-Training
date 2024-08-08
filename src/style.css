@@ -2,6 +2,18 @@
     box-sizing: border-box;
     color: #333;
   }
+
+  /* .test-css{
+    height: 5000px;
+  } */
+
+  .img-container-custom{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    height: 200px;
+    
+  }
   
   body {
     background-color: #81a69b;
